@@ -33,4 +33,4 @@ readinessProbe:
   timeoutSeconds: 1
 terminationGracePeriodSeconds: 10
 username: root
-password: password
+password: root
